@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! / Hola a todos! 👋
 
 Hola soy Jorge Barragán, estudiante de Diseño Hipermedia y Productor de Multimedia, aquí hay algunos de mis proyectos:
 
