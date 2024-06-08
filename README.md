@@ -4,7 +4,7 @@ Hola soy Jorge Barragán, estudiante de Diseño Hipermedia y Productor de Multim
 
 #### Juego Hipermedia
 
-<a href="https://www.ejemplo.com](https://jlbarraganm.github.io/Memory-Game/">
+<a href="https://jlbarraganm.github.io/Memory-Game/">
   <img src="https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto1.png?raw=true" width="200">
 </a>
 
