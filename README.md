@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hola soy Jorge Barragán, estudiante de Diseño Hipermedia y Productor de Multimedia, aquí hay algunos de mis proyectos:
+
+#### Juego Hipermedia
+
+<a href="https://www.ejemplo.com](https://jlbarraganm.github.io/Memory-Game/">
+  <img src="https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto1.png?raw=true" width="200">
+</a>
+
 <!--
 **jlbarraganm/jlbarraganm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
