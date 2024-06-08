@@ -11,7 +11,7 @@ Hola soy Jorge Barragán, estudiante de Diseño Hipermedia y Productor de Multim
 #### Mi app Hipermedia
 
 <a href="https://github.com/jlbarraganm/mi-app-hipermedia">
-  <img src="" width="200">
+  <img src="https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto2.png?raw=true" width="200">
 </a>
 
 <!--
