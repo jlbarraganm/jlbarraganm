@@ -3,9 +3,9 @@
 Hola soy Jorge Barragán, estudiante de Diseño Hipermedia y Productor de Multimedia, aquí hay algunos de mis proyectos:
 
 
-| **Juego de Memoria** | **Mi app Hipermedia** |
-| --- | --- |
-| [![Juego de Memoria](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto1.png?raw=true)](https://github.com/jlbarraganm/Memory-Game) | [![Mi app Hipermedia](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto2.png?raw=true)](https://github.com/jlbarraganm/mi-app-hipermedia) | [![Canva en Processing](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto2.png?raw=true)](https://github.com/jlbarraganm/mi-primer-codigo) |
+| **Juego de Memoria** | **Mi app Hipermedia** | **Canva en Processing** | 
+| --- | --- | --- |
+| [![Juego de Memoria](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto1.png?raw=true)](https://github.com/jlbarraganm/Memory-Game) | [![Mi app Hipermedia](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto2.png?raw=true)](https://github.com/jlbarraganm/mi-app-hipermedia) | [![Canva en Processing](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto3.png?raw=true)](https://github.com/jlbarraganm/mi-primer-codigo) |
 
 
 
