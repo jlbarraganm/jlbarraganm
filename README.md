@@ -3,20 +3,10 @@
 Hola soy Jorge Barragán, estudiante de Diseño Hipermedia y Productor de Multimedia, aquí hay algunos de mis proyectos:
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
-    <a href="https://github.com/jlbarraganm/Memory-Game">
-      <img src="https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto1.png?raw=true" width="200">
-      <p><strong>Juego de Memoria</strong></p>
-    </a>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <a href="https://github.com/jlbarraganm/mi-app-hipermedia">
-      <img src="https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto2.png?raw=true" width="200">
-      <p><strong>Mi app Hipermedia</strong></p>
-    </a>
-  </div>
-</div>
+| **Juego de Memoria** | **Mi app Hipermedia** |
+| --- | --- |
+| [![Juego de Memoria](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto1.png?raw=true)](https://github.com/jlbarraganm/Memory-Game) | [![Mi app Hipermedia](https://github.com/jlbarraganm/jlbarraganm/blob/main/recursos/proyecto2.png?raw=true)](https://github.com/jlbarraganm/mi-app-hipermedia) |
+
 
 
 
